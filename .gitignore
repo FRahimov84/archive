@@ -1,7 +1,7 @@
 .idea
-3601892.png
-course.pdf
-SteamSetup.exe
-video.mp4
+cmd/3601892.png
+cmd/course.pdf
+cmd/SteamSetup.exe
+cmd/video.mp4
 *.exe
 *.zip
